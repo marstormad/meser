@@ -1,0 +1,77 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "d7c77a643e663bc03ab8ce72f3252382",
+    "packages": [
+        {
+            "name": "spatie/array-functions",
+            "version": "1.9.4",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/spatie/array-functions.git",
+                "reference": "a5c418357960bd1a4575ed68ebde44b7deff0ebe"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/spatie/array-functions/zipball/a5c418357960bd1a4575ed68ebde44b7deff0ebe",
+                "reference": "a5c418357960bd1a4575ed68ebde44b7deff0ebe",
+                "shasum": ""
+            },
+            "require": {
+                "php": "^7.4|^8.0"
+            },
+            "require-dev": {
+                "phpunit/phpunit": "^9.4"
+            },
+            "type": "library",
+            "autoload": {
+                "files": [
+                    "src/array_functions.php"
+                ]
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Freek Van der Herten",
+                    "email": "freek@spatie.be",
+                    "homepage": "https://murze.be",
+                    "role": "Developer"
+                }
+            ],
+            "description": "Some handy array helpers",
+            "homepage": "https://github.com/spatie/array-functions",
+            "keywords": [
+                "array",
+                "handy",
+                "helper",
+                "spatie"
+            ],
+            "support": {
+                "issues": "https://github.com/spatie/array-functions/issues",
+                "source": "https://github.com/spatie/array-functions/tree/1.9.4"
+            },
+            "funding": [
+                {
+                    "url": "https://github.com/spatie",
+                    "type": "github"
+                }
+            ],
+            "time": "2021-04-03T18:04:19+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": [],
+    "plugin-api-version": "2.3.0"
+}

@@ -14,5 +14,7 @@
             "email": "marstormad@outlook.com"
         }
     ],
-    "require": {}
+    "require": {
+        "spatie/array-functions": "^1.9"
+    }
 }
